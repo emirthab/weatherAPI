@@ -21,7 +21,7 @@
 
 * ### Install requirements:
 ```
-python -m pip install -r .\requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 * ### Run Application:
