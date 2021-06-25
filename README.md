@@ -15,7 +15,10 @@
 **❗️In this application, it is not possible to sell, rent or use the data commercially. This application was made for testing purposes. Since it works as a bot, it works slower than apis that sell data.**
 **You can use the api in your projects from the following link (see usage section):**
 
-"**https://github.com/emirthab/weatherAPI**(To be added)"
+"https://weatherapi.emirthab.repl.co/"
+
+example:
+"https://weatherapi.emirthab.repl.co/current?lat=40&lon=35&lang=en"
 
 ## Usage :
 
